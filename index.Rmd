@@ -1,3 +1,6 @@
 ---
 title: Andrea Sottosanti
 ---
+
+<img src="files/prato_della_valle_pd.jpg" style="width:50%">
+
