@@ -14,12 +14,12 @@
 *In volumes*
 
 3. **Sottosanti, A.**, Costantin, D., Bastieri, D., and Brazzale, A. R. (2019). Discovering and Locating
-High-Energy Extra-Galactic Sources by Bayesian Mixture Modelling. New Statistical Developments
-in Data Science (A. Petrucci, F. Racioppi and R. Verde Eds.), Springer Proceedings in Mathematics
+High-Energy Extra-Galactic Sources by Bayesian Mixture Modelling. *New Statistical Developments
+in Data Science* (A. Petrucci, F. Racioppi and R. Verde Eds.), Springer Proceedings in Mathematics
 & Statistics, 288, 135-148.
 
 4. Caponera, A., Denti, F., Rigon, T., **Sottosanti, A.**, and Gelfand, A. (2018). Hierarchical Spatio-
-Temporal Modeling of Resting State fMRI Data. Studies in Neural Data Science (A. Canale, D.
+Temporal Modeling of Resting State fMRI Data. *Studies in Neural Data Science* (A. Canale, D.
 Durante, L. Paci and B. Scarpa Eds.), Springer Proceedings in Mathematics & Statistics, 257,
 111-130.
 
