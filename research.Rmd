@@ -5,7 +5,7 @@
 
 ---
 
-*in journals*
+*In journals*
 
   1. Hayden, E., Airoldi, C., Scotti, L., Bellan, M., **Sottosanti, A.**, Bergamasco, P., Salamina, L., Capponi, A., Sainaghi, P.P., Pirisi, M. (2021) Modelling hospital bed necessity for COVID-19 patients during the decline phase of the epidemic trajectory. *Minerva Respiratory Medicine* 60(2):29-35. [(link)](https://www.minervamedica.it/en/journals/minerva-respiratory-medicine/article.php?cod=R16Y2021N02A0029)
   
@@ -55,6 +55,8 @@ tions, 28-30 June 2017, Florence (Italy).
 R. and van Dyk, D. A. (2021+) Identification of high-energy astrophysical point sources via hierarchical Bayesian nonparametric clustering. [(preprint)](https://arxiv.org/abs/2104.11492)
 
 ---
+
+&nbsp; 
 
 ### **Reviewing activity**
 
