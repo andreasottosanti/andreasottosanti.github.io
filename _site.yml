@@ -1,7 +1,8 @@
 name: "Andrea Sottosanti's website"
 output_dir: "."
 navbar:
-  #title: 
+  title: Andrea Sottosanti
+  href: 
   left:
     - text: "Home"
       href: index.html
