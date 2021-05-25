@@ -8,6 +8,8 @@ navbar:
 #      href: index.html
     - text: "Research"
       href: research.html
+    - text: "Teaching"
+      href: teaching.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<andrea.sottosanti@unipd.it>
