@@ -5,11 +5,17 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Research"
+      href: research.html
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:<cats@catemail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: mailto:<andrea.sottosanti@unipd.it>
+    - icon: ion-social-twitter
+      href: https://twitter.com/A_Sottosanti
+    - icon: ion-social-linkedin
+      href: https://www.linkedin.com/in/andrea-sottosanti-421353a9/
+    - icon: ion-social-github
+      href: http://github.com/andreasottosanti/
 output:
   html_document:
     theme: spacelab
