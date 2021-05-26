@@ -8,7 +8,7 @@
 
 &nbsp;   &nbsp;   &nbsp;
 
-I am a Postdoctoral Researcher in Statistical Sciences, currently working at the homonymous department of the University of Padova (Italy).  
+I am a Postdoctoral Researcher in Statistical Sciences, currently working at the [homonymous department](https://www.stat.unipd.it) of the University of Padova (Italy).  
 My research interests are prevalently focused on methods for clustering based on probability distributions (model-based clustering) both in the Frequentist and in the Bayesian paradigms, with particular emphasis to the applications in genomics and astronomy.
 
 &nbsp; 
@@ -24,3 +24,11 @@ My research interests are prevalently focused on methods for clustering based on
 **Visiting**
 
 - [04/2018-10/2018] Visiting research scholar, Imperial College London (UK)
+
+**Membership**
+
+- Italian Statistical Society (SIS)
+
+- Statistical Modelling Society (SMS)
+
+- International [CHASC](International CHASC Astro-Statistics Collaboration) Astro-Statistics Collaboration 
