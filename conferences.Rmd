@@ -1,0 +1,39 @@
+&nbsp;  
+
+### **Conferences**
+
+
+---
+
+*Oral presentations*
+
+  - **[14-18 Dec. 2020]** The European Bioconductor Meeting, *online*
+  
+  - **[17-20 June 2020]** The European R Users Meeting, *online*
+  
+  - **[14-16 Dec. 2019]** 12th International Conference of the ERCIM WG on Computational and
+Methodological Statistics, *London, UK* (**invited**)
+
+  - **[22-26 July 2019]** 32nd European Meeting of Statisticians, *Palermo, Italy* (**invited**)
+  
+  - **[8-12 July 2019]** 34th International Workshop on Statistical Modelling, *Guimarães, Portugal*
+  
+  - **[24-28 June 2019]** 12th International Conference on Bayesian Nonparametrics, *Oxford, UK*
+  
+  - **[14-16 Dec. 2018]** 11th International Conference of the ERCIM WG on Computational and
+Methodological Statistics, *Pisa, Italy* (**invited**)
+
+  - **[15-20 July 2018]** 33rd International Workshop on Statistical Modelling, *Bristol, UK*
+  
+  - **[28-30 June 2017]** Statistics and Data Sciences: New Challenges, New Generations.
+Conference of the Italian Statistical Society, *Florence, Italy*
+
+---
+
+*Poster presentations*
+
+  - **[3-6 Sept. 2018]** Conference of the Royal Statistical Society, *Cardiff, UK*
+  
+  - **[24-29 June 2018]** Conference of the International Society of Bayesian Analysis, *Edinburgh, UK*
+  
+  - **[8 Sept. 2017]** `Astro@Stat 2017`: Sino-Italian Workshop on Astrostatistics, *Padova, Italy*
