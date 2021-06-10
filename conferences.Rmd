@@ -31,6 +31,10 @@ Conference of the Italian Statistical Society, *Florence, Italy*
 ---
 
 *Poster presentations*
+  
+  - **[7-10 June 2021]** Statistical Challenges in Modern Astronomy VII, *online*
+  
+  - **[2-4 June 2021]** Mixtures, Hidden Markov Models, Clustering 2021, *online*
 
   - **[3-6 Sept. 2018]** Conference of the Royal Statistical Society, *Cardiff, UK*
   
