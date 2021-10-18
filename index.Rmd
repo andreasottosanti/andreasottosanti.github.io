@@ -23,6 +23,8 @@ My research interests are prevalently focused on methods for clustering based on
 
 **Membership**
 
+- International Society for Bayesian Analysis (ISBA)
+
 - Italian Statistical Society (SIS)
 
 - Statistical Modelling Society (SMS)
@@ -33,5 +35,7 @@ My research interests are prevalently focused on methods for clustering based on
 
 <p align="center">
 <img src="files/unipd.png" style="width:25%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sponsored by: 
 <img src="files/NCI.png" style="width:25%">
 </p>

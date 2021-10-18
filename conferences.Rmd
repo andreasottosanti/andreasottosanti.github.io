@@ -7,6 +7,10 @@
 
 *Oral presentations*
 
+  - **[21-25 June 2021]** 50th Meeting of the Italian Statistical Society (SIS2021), *online*
+
+  - **[14-18 Dec. 2020]** The European Bioconductor Meeting, *online*
+
   - **[14-18 Dec. 2020]** The European Bioconductor Meeting, *online*
   
   - **[17-20 June 2020]** The European R Users Meeting, *online*

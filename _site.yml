@@ -12,6 +12,8 @@ navbar:
         href: conferences.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Outreach"
+      href: outreaching.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<andrea.sottosanti@unipd.it>

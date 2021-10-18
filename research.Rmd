@@ -51,6 +51,9 @@ tions, 28-30 June 2017, Florence (Italy).
 
 *Under review*
 
+  - **Sottosanti, A.** and Risso, D. (2021+) Co-clustering of Spatially Resolved
+Transcriptomic Data. [(preprint)](https://arxiv.org/abs/2110.04872)
+
   - **Sottosanti, A.**, Bernardi, M., Brazzale, A. R., Geringer-Sameth, A., Stenning, D. C., Trotta,
 R. and van Dyk, D. A. (2021+) Identification of high-energy astrophysical point sources via hierarchical Bayesian nonparametric clustering. [(preprint)](https://arxiv.org/abs/2104.11492)
 
