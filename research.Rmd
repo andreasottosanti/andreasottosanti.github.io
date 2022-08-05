@@ -7,9 +7,13 @@
 
 *In journals*
 
+  - **Sottosanti, A.** and Risso, D. (2022) Co-clustering of Spatially Resolved Transcriptomic Data. *The Annals of Applied Statistics* (in press). [(preprint)](https://arxiv.org/abs/2110.04872)
+  
+  - **Sottosanti, A.**, Castiglione, C. and Risso, D. (2022) Contributed discussion: "Bayesian Nonstationary and Nonparametric Covariance Estimation for Large Spatial Data" by B. Kidd and M. Katzfuss. *Bayesian Analysis* 17(1):337-339. [(link)](https://projecteuclid.org/journals/bayesian-analysis/volume-17/issue-1/Bayesian-Nonstationary-and-Nonparametric-Covariance-Estimation-for-Large-Spatial-Data/10.1214/21-BA1273.full)
+
   - Hayden, E., Airoldi, C., Scotti, L., Bellan, M., **Sottosanti, A.**, Bergamasco, P., Salamina, L., Capponi, A., Sainaghi, P.P., Pirisi, M. (2021) Modelling hospital bed necessity for COVID-19 patients during the decline phase of the epidemic trajectory. *Minerva Respiratory Medicine* 60(2):29-35. [(link)](https://www.minervamedica.it/en/journals/minerva-respiratory-medicine/article.php?cod=R16Y2021N02A0029)
   
-  - Costantin, D., **Sottosanti, A.**, Brazzale, A. R., Bastieri, D. and Fan, J. (2020) Bayesian Mixture Modeling of the High-Energy Photon Counts collected by the Fermi Large Area Telescope. *Statistical Modelling*, 1471082X20947222. [(link)](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20947222)
+  - Costantin, D., **Sottosanti, A.**, Brazzale, A. R., Bastieri, D. and Fan, J. (2022) Bayesian Mixture Modeling of the High-Energy Photon Counts collected by the Fermi Large Area Telescope. *Statistical Modelling* 22(3):175-198. [(link)](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20947222)
 
 ---
 
@@ -51,9 +55,6 @@ tions, 28-30 June 2017, Florence (Italy).
 
 *Under review*
 
-  - **Sottosanti, A.** and Risso, D. (2021+) Co-clustering of Spatially Resolved
-Transcriptomic Data. [(preprint)](https://arxiv.org/abs/2110.04872)
-
   - **Sottosanti, A.**, Bernardi, M., Brazzale, A. R., Geringer-Sameth, A., Stenning, D. C., Trotta,
 R. and van Dyk, D. A. (2021+) Identification of high-energy astrophysical point sources via hierarchical Bayesian nonparametric clustering. [(preprint)](https://arxiv.org/abs/2104.11492)
 
@@ -63,4 +64,6 @@ R. and van Dyk, D. A. (2021+) Identification of high-energy astrophysical point 
 
 ### **Reviewing activity**
 
-BMC-Bioinformatics
+ - BMC-Bioinformatics
+ - Nature Communications
+ - Quantitative Finance and Economics.

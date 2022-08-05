@@ -36,12 +36,12 @@ My research interests are prevalently focused on methods for clustering based on
 - Statistical Modelling Society (SMS)
 
 - International [CHASC](International CHASC Astro-Statistics Collaboration) Astro-Statistics Collaboration 
-
+<!---
 &nbsp;   &nbsp;
-
 <p align="center">
 <img src="files/unipd.png" style="width:25%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Sponsored by: 
 <img src="files/NCI.png" style="width:25%">
 </p>
+--->

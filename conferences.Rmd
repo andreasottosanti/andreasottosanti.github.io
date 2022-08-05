@@ -7,6 +7,10 @@
 
 *Oral presentations*
 
+  - **[6-11 August 2022]** Joint Statistical Meeting 2022, *Washingthon DC, USA*
+
+  - **[2-3 August 2022]** CHASC/RISE-ASTROSTAT Workshop 2022, *Cambridge, Massachusetts, USA* [(link)](https://hea-www.harvard.edu/AstroStat/CHASC_2122/workshop.html#description)
+
   - **[21-25 June 2021]** 50th Meeting of the Italian Statistical Society (SIS2021), *online*
 
   - **[14-18 Dec. 2020]** The European Bioconductor Meeting, *online*
@@ -35,6 +39,8 @@ Conference of the Italian Statistical Society, *Florence, Italy*
 ---
 
 *Poster presentations*
+
+  - **[26 June - 1 July 2022]** Conference of the International Society of Bayesian Analysis, *Montreal, Canada*
   
   - **[7-10 June 2021]** Statistical Challenges in Modern Astronomy VII, *online*
   
