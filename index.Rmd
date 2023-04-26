@@ -4,7 +4,7 @@
 
 &nbsp;   &nbsp;   &nbsp;
 
-I am an Assistant Professor in Statistics at the Department of Medicine of  the University of Padova (Italy). I am also an Honorary Research Associate at the Department of Mathematics of the Imperial College London (UK). 
+I am an Assistant Professor in Statistics at the Department of Medicine (DIMED) of  the University of Padova (Italy). I am also an Honorary Research Associate at the Department of Mathematics of the Imperial College London (UK). 
 My research interests are prevalently focused on methods for clustering based on probability distributions (model-based clustering) both in the Frequentist and in the Bayesian paradigms, with particular emphasis to the applications in genomics and astronomy.
 
 &nbsp; 
