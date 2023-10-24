@@ -5,11 +5,9 @@ navbar:
   href: index.html
   left:
     - text: "Research"
-      menu:
-      - text: "Publications"
-        href: research.html
-      - text: "Conferences"
-        href: conferences.html
+      href: research.html
+    - text: "Conferences"
+      href: conferences.html
     - text: "Teaching"
       href: teaching.html
     - text: "Outreach"
