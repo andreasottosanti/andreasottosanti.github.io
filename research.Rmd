@@ -78,6 +78,7 @@ R. and van Dyk, D. A. (2021+) Identification of high-energy astrophysical point 
  - Bioinformatics
  - Computational Statistics
  - Environmental and Ecological Statistics
+ - Journal of the Royal Statistical Society: Series A
  - Nature Communications
  - Quantitative Finance and Economics.
  - Statistical Methods & Applications
