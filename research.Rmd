@@ -10,7 +10,7 @@
 
   - **Sottosanti, A.**, Denti, F., Galimberti, S., Risso, D., and Capitoli, G. (2025). Spatially informed nonnegative matrix trifactorization for coclustering mass spectrometry data. *Biometrical Journal* 67(2):e70031. [(link)](https://doi.org/10.1002/bimj.70031)
 
-  - Montin, A., Brazzale, A. R., Menardi, G., and **Sottosanti, A.** (2023). Locating $\gamma$-ray sources on the celestial sphere via modal clustering. *Statistical Methods & Applications*. [(link)](https://link.springer.com/article/10.1007/s10260-023-00726-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231005&utm_content=10.1007/s10260-023-00726-w)
+  - Montin, A., Brazzale, A. R., Menardi, G., and **Sottosanti, A.** (2024). Locating $\gamma$-ray sources on the celestial sphere via modal clustering. *Statistical Methods & Applications* 33:153–172. [(link)](https://link.springer.com/article/10.1007/s10260-023-00726-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231005&utm_content=10.1007/s10260-023-00726-w)
 
   - Ianniello, A., **Sottosanti, A.**, Borriello, G., and Vincenti, M. (2023). Perception of Quality of Life and Fatigue in Multiple Sclerosis Patients Treated with High-Dose Vitamin D. *Clinical and Translational Neuroscience* 7(2):12-27. [(link)](https://www.mdpi.com/2514-183X/7/2/12)
 
