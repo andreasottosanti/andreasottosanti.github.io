@@ -8,7 +8,7 @@
 
   - **Sottosanti, A.**, Bovo, E.,  Belloni, P., and Boccuzzo, G. (2025). Bayesian mapping of mortality clusters. *Biostatistics*. In press. [(preprint)](https://arxiv.org/abs/2407.19135)
 
-  - **Sottosanti, A.**, Denti, F., Galimberti, S., Risso, D., and Capitoli, G. (2024). Spatially informed nonnegative matrix trifactorization for coclustering mass spectrometry data. *Biometrical Journal*. [(link)](https://doi.org/10.1002/bimj.70031)
+  - **Sottosanti, A.**, Denti, F., Galimberti, S., Risso, D., and Capitoli, G. (2025). Spatially informed nonnegative matrix trifactorization for coclustering mass spectrometry data. *Biometrical Journal* 67(2):e70031. [(link)](https://doi.org/10.1002/bimj.70031)
 
   - Montin, A., Brazzale, A. R., Menardi, G., and **Sottosanti, A.** (2023). Locating $\gamma$-ray sources on the celestial sphere via modal clustering. *Statistical Methods & Applications*. [(link)](https://link.springer.com/article/10.1007/s10260-023-00726-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231005&utm_content=10.1007/s10260-023-00726-w)
 
