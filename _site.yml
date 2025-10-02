@@ -9,17 +9,19 @@ navbar:
     #- text: "Conferences"
     #  href: conferences.html
     #- text: "Teaching"
-  #    href: teaching.html
+    #  href: teaching.html
     - text: "Outreach"
       href: outreaching.html
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:<andrea.sottosanti@unipd.it>
-    - icon: ion-social-twitter
+      href: mailto:andrea.sottosanti@unipd.it
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=ULJS014AAAAJ&hl=it
+    - icon: fa-twitter fa-lg
       href: https://twitter.com/A_Sottosanti
-    - icon: ion-social-linkedin
+    - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/andrea-sottosanti-421353a9/
-    - icon: ion-social-github
+    - icon: fa-github fa-lg
       href: http://github.com/andreasottosanti/
 output:
   html_document:
