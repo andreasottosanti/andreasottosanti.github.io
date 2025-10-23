@@ -6,7 +6,7 @@
 
 *In journals*
 
-  - **Sottosanti, A.**, Risso, D., and Denti, F. (2025). Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data. *Journal of classification*. In press.
+  - **Sottosanti, A.**, Risso, D., and Denti, F. (2025). Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data. *Journal of Classification*. In press. [(preprint)](https://arxiv.org/abs/2510.19108)
 
   - Bovo, E.,  Belloni, P., **Sottosanti, A.**, and Boccuzzo, G. (2025). A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk. *Environmental and Ecological Statistics*. In press.
 
