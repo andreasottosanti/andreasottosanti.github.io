@@ -6,33 +6,33 @@
 
 *In journals*
 
-  - **Sottosanti, A.**, Risso, D., and Denti, F. (2025). Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data. *Journal of Classification*. In press. ([preprint](https://arxiv.org/abs/2510.19108)-[repository](https://github.com/andreasottosanti/SR-GMM_JoC.git))
+  - **Sottosanti, A.**, Risso, D., and Denti, F. (2025). Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data. *Journal of Classification*. In press. ([preprint](https://arxiv.org/abs/2510.19108) - [repository](https://github.com/andreasottosanti/SR-GMM_JoC.git))
 
   - Bovo, E.,  Belloni, P., **Sottosanti, A.**, and Boccuzzo, G. (2025). A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk. *Environmental and Ecological Statistics*. In press.
 
-  - **Sottosanti, A.**, Bovo, E.,  Belloni, P., and Boccuzzo, G. (2025). Bayesian mapping of mortality clusters. *Biostatistics*. In press. ([preprint](https://arxiv.org/abs/2407.19135)-[repository](https://github.com/andreasottosanti/perla.git))
+  - **Sottosanti, A.**, Bovo, E.,  Belloni, P., and Boccuzzo, G. (2025). Bayesian mapping of mortality clusters. *Biostatistics* 26(1):kxaf028. ([article](https://academic.oup.com/biostatistics/article/26/1/kxaf028/8315811?utm_source=advanceaccess&utm_campaign=biostatistics&utm_medium=email#539338668) - [preprint](https://arxiv.org/abs/2407.19135) - [repository](https://github.com/andreasottosanti/perla.git))
 
-  - **Sottosanti, A.**, Denti, F., Galimberti, S., Risso, D., and Capitoli, G. (2025). Spatially informed nonnegative matrix trifactorization for coclustering mass spectrometry data. *Biometrical Journal* 67(2):e70031. [(link)](https://doi.org/10.1002/bimj.70031)
+  - **Sottosanti, A.**, Denti, F., Galimberti, S., Risso, D., and Capitoli, G. (2025). Spatially informed nonnegative matrix trifactorization for coclustering mass spectrometry data. *Biometrical Journal* 67(2):e70031. ([article](https://doi.org/10.1002/bimj.70031) - [repository](https://github.com/andreasottosanti/TRIFASE.git))
 
-  - Montin, A., Brazzale, A. R., Menardi, G., and **Sottosanti, A.** (2024). Locating $\gamma$-ray sources on the celestial sphere via modal clustering. *Statistical Methods & Applications* 33:153–172. [(link)](https://link.springer.com/article/10.1007/s10260-023-00726-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231005&utm_content=10.1007/s10260-023-00726-w)
+  - Montin, A., Brazzale, A. R., Menardi, G., and **Sottosanti, A.** (2024). Locating $\gamma$-ray sources on the celestial sphere via modal clustering. *Statistical Methods & Applications* 33:153–172. [(article)](https://link.springer.com/article/10.1007/s10260-023-00726-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231005&utm_content=10.1007/s10260-023-00726-w)
 
-  - Ianniello, A., **Sottosanti, A.**, Borriello, G., and Vincenti, M. (2023). Perception of Quality of Life and Fatigue in Multiple Sclerosis Patients Treated with High-Dose Vitamin D. *Clinical and Translational Neuroscience* 7(2):12-27. [(link)](https://www.mdpi.com/2514-183X/7/2/12)
+  - Ianniello, A., **Sottosanti, A.**, Borriello, G., and Vincenti, M. (2023). Perception of Quality of Life and Fatigue in Multiple Sclerosis Patients Treated with High-Dose Vitamin D. *Clinical and Translational Neuroscience* 7(2):12-27. [(article)](https://www.mdpi.com/2514-183X/7/2/12)
 
 
-  - **Sottosanti, A.**, and Risso, D. (2023). Co-clustering of Spatially Resolved Transcriptomic Data. *The Annals of Applied Statistics* 17(2):1444-1468. [(link)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-2/Co-clustering-of-spatially-resolved-transcriptomic-data/10.1214/22-AOAS1677.short?tab=ArticleLink)
+  - **Sottosanti, A.**, and Risso, D. (2023). Co-clustering of Spatially Resolved Transcriptomic Data. *The Annals of Applied Statistics* 17(2):1444-1468. ([article](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-2/Co-clustering-of-spatially-resolved-transcriptomic-data/10.1214/22-AOAS1677.short?tab=ArticleLink) - [repository](https://github.com/andreasottosanti/spartaco.git))
   
   
-  - Costantin, D., **Sottosanti, A.**, Brazzale, A. R., Bastieri, D., Fan, J. (2022). Bayesian Mixture Modeling of the High-Energy Photon Counts collected by the Fermi Large Area Telescope. *Statistical Modelling* 22(3):175-198. [(link)](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20947222)
+  - Costantin, D., **Sottosanti, A.**, Brazzale, A. R., Bastieri, D., Fan, J. (2022). Bayesian Mixture Modeling of the High-Energy Photon Counts collected by the Fermi Large Area Telescope. *Statistical Modelling* 22(3):175-198. [(article)](https://journals.sagepub.com/doi/pdf/10.1177/1471082X20947222)
 
-  - Hayden, E., Airoldi, C., Scotti, L., Bellan, M., **Sottosanti, A.**, Bergamasco, P., Salamina, L., Capponi, A., Sainaghi, P.P., and Pirisi, M. (2021). Modelling hospital bed necessity for COVID-19 patients during the decline phase of the epidemic trajectory. *Minerva Respiratory Medicine* 60(2):29-35. [(link)](https://www.minervamedica.it/en/journals/minerva-respiratory-medicine/article.php?cod=R16Y2021N02A0029)
+  - Hayden, E., Airoldi, C., Scotti, L., Bellan, M., **Sottosanti, A.**, Bergamasco, P., Salamina, L., Capponi, A., Sainaghi, P.P., and Pirisi, M. (2021). Modelling hospital bed necessity for COVID-19 patients during the decline phase of the epidemic trajectory. *Minerva Respiratory Medicine* 60(2):29-35. [(article)](https://www.minervamedica.it/en/journals/minerva-respiratory-medicine/article.php?cod=R16Y2021N02A0029)
   
 ---
 
 *Discussions in journals*
 
- - Righelli, D., **Sottosanti, A.**, and Risso, D. (2023). Designing spatial transcriptomic experiments. *Nature Methods* 20(3):355-356. [(link)](https://www.nature.com/articles/s41592-023-01801-6)
+ - Righelli, D., **Sottosanti, A.**, and Risso, D. (2023). Designing spatial transcriptomic experiments. *Nature Methods* 20(3):355-356. [(article)](https://www.nature.com/articles/s41592-023-01801-6)
  
- - **Sottosanti, A.**, Risso, D., and Castiglione, C. (2022). Contributed discussion: "Bayesian Nonstationary and Nonparametric Covariance Estimation for Large Spatial Data" by B. Kidd and M. Katzfuss. *Bayesian Analysis* 17(1):337-339. [(link)](https://projecteuclid.org/journals/bayesian-analysis/volume-17/issue-1/Bayesian-Nonstationary-and-Nonparametric-Covariance-Estimation-for-Large-Spatial-Data/10.1214/21-BA1273.full)
+ - **Sottosanti, A.**, Risso, D., and Castiglione, C. (2022). Contributed discussion: "Bayesian Nonstationary and Nonparametric Covariance Estimation for Large Spatial Data" by B. Kidd and M. Katzfuss. *Bayesian Analysis* 17(1):337-339. [(article)](https://projecteuclid.org/journals/bayesian-analysis/volume-17/issue-1/Bayesian-Nonstationary-and-Nonparametric-Covariance-Estimation-for-Large-Spatial-Data/10.1214/21-BA1273.full)
 
 ---
 
@@ -41,12 +41,12 @@
   - **Sottosanti, A.**, Costantin, D., Bastieri, D., and Brazzale, A. R. (2019). Discovering and Locating
 High-Energy Extra-Galactic Sources by Bayesian Mixture Modelling. *New Statistical Developments
 in Data Science* (A. Petrucci, F. Racioppi and R. Verde Eds.), Springer Proceedings in Mathematics
-& Statistics, 288, 135-148. [(link)](https://link.springer.com/chapter/10.1007/978-3-030-21158-5_11)
+& Statistics, 288, 135-148. [(article)](https://link.springer.com/chapter/10.1007/978-3-030-21158-5_11)
 
   - Caponera, A., Denti, F., Rigon, T., **Sottosanti, A.**, and Gelfand, A. (2018). Hierarchical Spatio-
 Temporal Modeling of Resting State fMRI Data. *Studies in Neural Data Science* (A. Canale, D.
 Durante, L. Paci and B. Scarpa Eds.), Springer Proceedings in Mathematics & Statistics, 257,
-111-130. [(link)](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)
+111-130. [article](https://link.springer.com/chapter/10.1007/978-3-030-00039-4_7)
 
 ---
 
