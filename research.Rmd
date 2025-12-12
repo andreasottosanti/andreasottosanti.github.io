@@ -6,11 +6,12 @@
 
 *In journals*
 
-  - **Sottosanti, A.**, Risso, D., and Denti, F. (2025). Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data. *Journal of Classification*. In press. ([preprint](https://arxiv.org/abs/2510.19108) - [repository](https://github.com/andreasottosanti/SR-GMM_JoC.git))
+  - **Sottosanti, A.**, Risso, D., and Denti, F. (2025). Spatially Regularized Gaussian Mixtures for Clustering Spatial Transcriptomic Data. *Journal of Classification*.  ([article](https://link.springer.com/article/10.1007/s00357-025-09527-0) -
+  [preprint](https://arxiv.org/abs/2510.19108) - [repository](https://github.com/andreasottosanti/SR-GMM_JoC.git))
 
-  - Bovo, E.,  Belloni, P., **Sottosanti, A.**, and Boccuzzo, G. (2025). A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk. *Environmental and Ecological Statistics*. In press.
+  - Bovo, E.,  Belloni, P., **Sottosanti, A.**, and Boccuzzo, G. (2025). A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk. *Environmental and Ecological Statistics*. ([article](https://link.springer.com/article/10.1007/s10651-025-00684-4))
 
-  - **Sottosanti, A.**, Bovo, E.,  Belloni, P., and Boccuzzo, G. (2025). Bayesian mapping of mortality clusters. *Biostatistics* 26(1):kxaf028. ([article](https://academic.oup.com/biostatistics/article/26/1/kxaf028/8315811?utm_source=advanceaccess&utm_campaign=biostatistics&utm_medium=email#539338668) - [preprint](https://arxiv.org/abs/2407.19135) - [repository](https://github.com/andreasottosanti/perla.git))
+  - **Sottosanti, A.**, Bovo, E.,  Belloni, P., and Boccuzzo, G. (2025). Bayesian mapping of mortality clusters. *Biostatistics* 26(1):kxaf028. ([article](https://academic.oup.com/biostatistics/article/26/1/kxaf028/8315811) - [preprint](https://arxiv.org/abs/2407.19135) - [repository](https://github.com/andreasottosanti/perla.git))
 
   - **Sottosanti, A.**, Denti, F., Galimberti, S., Risso, D., and Capitoli, G. (2025). Spatially informed nonnegative matrix trifactorization for coclustering mass spectrometry data. *Biometrical Journal* 67(2):e70031. ([article](https://doi.org/10.1002/bimj.70031) - [repository](https://github.com/andreasottosanti/TRIFASE.git))
 
