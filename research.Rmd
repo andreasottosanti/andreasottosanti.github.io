@@ -10,7 +10,7 @@
   ([article](https://link.springer.com/article/10.1007/s00357-025-09527-0) -
   [preprint](https://arxiv.org/abs/2510.19108) - [repository](https://github.com/andreasottosanti/SR-GMM_JoC.git))
 
-  - Bovo, E.,  Belloni, P., **Sottosanti, A.**, and Boccuzzo, G. (2025). A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk. *Environmental and Ecological Statistics*.  
+  - Bovo, E.,  Belloni, P., **Sottosanti, A.**, and Boccuzzo, G. (2025). A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk. *Environmental and Ecological Statistics* 32:1489–1518.  
   ([article](https://link.springer.com/article/10.1007/s10651-025-00684-4))
 
   - **Sottosanti, A.**, Bovo, E.,  Belloni, P., and Boccuzzo, G. (2025). Bayesian mapping of mortality clusters. *Biostatistics* 26(1):kxaf028.  
@@ -19,7 +19,8 @@
   - **Sottosanti, A.**, Denti, F., Galimberti, S., Risso, D., and Capitoli, G. (2025). Spatially informed nonnegative matrix trifactorization for coclustering mass spectrometry data. *Biometrical Journal* 67(2):e70031.  
   ([article](https://doi.org/10.1002/bimj.70031) - [repository](https://github.com/andreasottosanti/TRIFASE.git))
 
-  - Montin, A., Brazzale, A. R., Menardi, G., and **Sottosanti, A.** (2024). Locating $\gamma$-ray sources on the celestial sphere via modal clustering. *Statistical Methods & Applications* 33:153–172. ([article](https://link.springer.com/article/10.1007/s10260-023-00726-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231005&utm_content=10.1007/s10260-023-00726-w))
+  - Montin, A., Brazzale, A. R., Menardi, G., and **Sottosanti, A.** (2024). Locating $\gamma$-ray sources on the celestial sphere via modal clustering. *Statistical Methods & Applications* 33:153–172.  
+  ([article](https://link.springer.com/article/10.1007/s10260-023-00726-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231005&utm_content=10.1007/s10260-023-00726-w))
 
   - Ianniello, A., **Sottosanti, A.**, Borriello, G., and Vincenti, M. (2023). Perception of Quality of Life and Fatigue in Multiple Sclerosis Patients Treated with High-Dose Vitamin D. *Clinical and Translational Neuroscience* 7(2):12-27.  
   ([article](https://www.mdpi.com/2514-183X/7/2/12))
